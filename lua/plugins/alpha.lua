@@ -11,9 +11,6 @@ return
 
     dashboard.section.header.val = {
       [[                                                                       ]],
-      [[                                                                       ]],
-      [[                                                                       ]],
-      [[                                                                       ]],
       [[                                                                     ]],
       [[       ████ ██████           █████      ██                     ]],
       [[      ███████████             █████                             ]],
@@ -24,7 +21,11 @@ return
       [[ ██████  █████████████████████ ████ █████ █████ ████ ██████ ]],
       [[                                                                       ]],
       [[                                                                       ]],
-      [[                                                                       ]],
+      [[  [Keymap]                                                             ]],
+      [[   Find File:    Spacebar + ff   //   File Word:  Spacebar + fw        ]],
+      [[  Create Tab:    Spacebar + t    //   Close Tab:  Spacebar + x         ]],
+      [[    Next Tab:    Spacebar + j    //    Prev Tab:  Spacebar + k         ]],
+      [[                Help: + h  (lazyvim help)                              ]],
     }
 
     alpha.setup(dashboard.opts)
