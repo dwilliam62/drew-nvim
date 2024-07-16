@@ -31,7 +31,7 @@ return
       [[  Resize Left:  Spacebar + Ctrl + Left   ||    Resize Right: Spacebar + Ctrl + Right     ]],
       [[                                                                                         ]],
       [[                                  Help: Spacebar + h                                     ]],
-    
+    }    
 
     alpha.setup(dashboard.opts)
   end,
